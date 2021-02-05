@@ -1,0 +1,1 @@
+text = "That's pretty much the game!\nYou're goal is to get through each level as quick as possible!\nHave fun!\nPress start or escape to go back to the menu!";

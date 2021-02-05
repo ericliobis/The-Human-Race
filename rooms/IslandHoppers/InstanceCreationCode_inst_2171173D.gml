@@ -1,0 +1,1 @@
+global.currentMap = "IH_record.json";

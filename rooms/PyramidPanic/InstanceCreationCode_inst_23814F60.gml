@@ -1,0 +1,1 @@
+global.currentMap = "PP_record.json";

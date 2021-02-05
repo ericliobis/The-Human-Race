@@ -1,0 +1,1 @@
+global.currentMap = "DC_record.json";

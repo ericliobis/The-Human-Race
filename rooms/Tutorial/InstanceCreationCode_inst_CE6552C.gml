@@ -1,0 +1,1 @@
+text = "Be careful, spikes or saws can kill you\nand you have to respawn at your\nlast checkpoint"

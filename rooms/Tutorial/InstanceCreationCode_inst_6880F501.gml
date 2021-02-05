@@ -1,0 +1,1 @@
+text = "You can jump off of walls. Press\nbumper on a controller or W on\na keyboard to wall jump.";

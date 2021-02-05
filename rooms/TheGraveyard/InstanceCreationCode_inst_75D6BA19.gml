@@ -1,0 +1,1 @@
+global.currentMap = "GY_record.json";

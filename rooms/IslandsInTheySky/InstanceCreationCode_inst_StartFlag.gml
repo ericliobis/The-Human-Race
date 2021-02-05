@@ -1,0 +1,1 @@
+numberOfCheckPoints = 4;

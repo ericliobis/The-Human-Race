@@ -1,0 +1,1 @@
+text = "This is an item box, it only appears in\nmultiplayer. You can press 'B' on\n your controller to use an item";

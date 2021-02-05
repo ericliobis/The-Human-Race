@@ -1,0 +1,1 @@
+text = "Initially, I did not know where he was,\nbut out of the bushes a hint came. I knew\nwhere he was. Dear Ol' RHIT.\nI knew where to begin. From there I faced west\nand walked about 200 paces. I found a tree\nwith two stacked rocks in front of it and I\nknew I was going the right way. I continued about 100 more paces\n and when I felt I could go no longer...there he was...";

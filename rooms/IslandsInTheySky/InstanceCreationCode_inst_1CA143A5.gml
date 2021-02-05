@@ -1,0 +1,1 @@
+global.currentMap = "IITS_record.json"

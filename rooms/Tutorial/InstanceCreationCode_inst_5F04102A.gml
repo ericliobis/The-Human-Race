@@ -1,0 +1,1 @@
+global.currentMap = "LF_record.json";
